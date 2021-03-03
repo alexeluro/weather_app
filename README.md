@@ -2,6 +2,8 @@
 
 A Weather App built with flutter with a free weather API
 
+![Screenshot_20210303-004038](https://user-images.githubusercontent.com/47594450/109732647-da833780-7bbd-11eb-81a1-68430a2c2844.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
